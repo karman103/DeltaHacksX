@@ -1,4 +1,4 @@
-# EcoWiz P
+# EcoWiz 
 
 ## Inspiration
 The major inspiration for our team for this project came from observing that, even with proper garbage disposals, it is sometimes challenging to ensure correct segregation in the respective trash cans.
